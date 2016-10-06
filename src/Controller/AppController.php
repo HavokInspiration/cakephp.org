@@ -33,6 +33,7 @@ class AppController extends Controller
 	protected $availableLanguages = [
 		'en' => 'en',
 		'ja_JP' => 'jp',
+		'fr_FR' => 'fr',
 	];
 
 	/**

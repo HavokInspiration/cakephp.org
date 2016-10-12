@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "POT-Creation-Date: 2016-10-06 22:49+0200\n"
-"PO-Revision-Date: 2016-10-06 22:50+0200\n"
+"PO-Revision-Date: 2016-10-12 22:49+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fr_FR\n"
@@ -324,26 +324,26 @@ msgstr ""
 #: Template/Element/Layout/default/footer/menu/column_four.ctp:12
 #: Template/Element/Layout/default/menu/menu.ctp:66
 msgid "Help & Support"
-msgstr ""
+msgstr "Aide & Support"
 
 #: Template/Element/Layout/default/footer/menu/column_one.ctp:6
 #: Template/Element/Layout/default/menu/menu.ctp:18
 #: Template/Element/Layout/default/menu/mobile_menu.ctp:33
 #: Template/Pages/business_solutions.ctp:13
 msgid "Business Solutions"
-msgstr ""
+msgstr "Solutions d'entreprise"
 
 #: Template/Element/Layout/default/footer/menu/column_one.ctp:12
 #: Template/Element/Layout/default/menu/menu.ctp:26
 #: Template/Element/Layout/default/menu/mobile_menu.ctp:45
 msgid "Showcase"
-msgstr ""
+msgstr "Références"
 
 #: Template/Element/Layout/default/footer/menu/column_three.ctp:2
 #: Template/Element/Layout/default/menu/menu.ctp:42;53
 #: Template/Element/Layout/default/menu/mobile_menu.ctp:69;82
 msgid "Community"
-msgstr ""
+msgstr "Communauté"
 
 #: Template/Element/Layout/default/footer/menu/column_two.ctp:2
 #: Template/Element/Layout/default/menu/menu.ctp:6
@@ -356,21 +356,23 @@ msgstr ""
 #: Template/Element/Layout/default/menu/menu.ctp:34
 #: Template/Element/Layout/default/menu/mobile_menu.ctp:57
 msgid "Team"
-msgstr ""
+msgstr "L'équipe"
 
 #: Template/Element/Layout/default/menu/menu.ctp:81
 msgid "Logout"
-msgstr ""
+msgstr "Déconnexion"
 
 #: Template/Element/Layout/default/menu/mobile_menu.ctp:76
 msgid ""
 "Help &\n"
 "                                                Support"
 msgstr ""
+"Aide &\n"
+"                                                Support"
 
 #: Template/Element/Layout/default/menu/mobile_menu.ctp:94
 msgid "Language: {0}"
-msgstr ""
+msgstr "Langue : {0}"
 
 #: Template/Element/Layout/default/menu/top_bar.ctp:6;16
 msgid "CakePHP {0}{1}"
@@ -388,7 +390,7 @@ msgstr ""
 
 #: Template/Element/Projects/form.ctp:68
 msgid "Submit"
-msgstr ""
+msgstr "Envoyer"
 
 #: Template/Element/Showcase/cases.ctp:5
 msgid "CakePHP More Stories"
@@ -1215,6 +1217,9 @@ msgid ""
 "then we'd love for you to join us, there are a variety of ways to get "
 "involved and help out."
 msgstr ""
+"Si vous souhaitez contribuer à CakePHP et supporter la communité, nous "
+"serons ravis de vous accueillir. Vous pouvez nous aider de différentes "
+"manières."
 
 #: Template/Element/get-involved/get-involved.ctp:16
 #: Template/Element/get-involved/sidebar.ctp:6
@@ -1577,7 +1582,7 @@ msgstr "Nouveau CakePHP {0} Red Velvet."
 
 #: Template/Element/home/cake.ctp:6
 msgid "Faster. Stronger. Tastier."
-msgstr ""
+msgstr "Rapide. Solide. Élégant"
 
 #: Template/Element/home/cakefest.ctp:28
 msgid ""
@@ -1598,39 +1603,39 @@ msgstr ""
 
 #: Template/Element/home/newsletter.ctp:5
 msgid "Sign up for our newsletter."
-msgstr ""
+msgstr "Inscription à la newsletter (anglais uniquement)"
 
 #: Template/Element/home/newsletter.ctp:105
 msgid "Send!"
-msgstr ""
+msgstr "Envoyer !"
 
 #: Template/Element/home/quotes.ctp:11
 msgid "Hear what others have to say."
-msgstr ""
+msgstr "Témoignages"
 
 #: Template/Element/home/quotes.ctp:12
 msgid "This is how CakePHP has helped others to succeed."
-msgstr ""
+msgstr "Voici comment CakePHP a mené ces personnes à la réussite"
 
 #: Template/Element/home/share.ctp:10
 msgid "Sharing the cake."
-msgstr ""
+msgstr "Partager le gâteau"
 
 #: Template/Element/home/share.ctp:11
 msgid "Get involved and support the community."
-msgstr ""
+msgstr "Vous impliquer et supporter la communité"
 
 #: Template/Element/home/share.ctp:16
 msgid "Learn more."
-msgstr ""
+msgstr "En savoir plus."
 
 #: Template/Element/home/showcase.ctp:9
 msgid "Companies using CakePHP"
-msgstr ""
+msgstr "Sociétés utilisant CakePHP"
 
 #: Template/Element/home/showcase.ctp:11
 msgid "View the Showcase"
-msgstr ""
+msgstr "Voir nos références"
 
 #: Template/Element/home/summary.ctp:6
 msgid ""
@@ -1647,8 +1652,7 @@ msgstr ""
 "\t\t\t\t\t PHP 5.5+ moderne, vous offrant un système flexible d'accès à vos "
 "bases de données et un puissant système de scaffolding qui vous permet\n"
 "\t\t\t\t\t de construire à la fois des système petits et complexes plus "
-"facilement et avec plus de goût. \"Construisez rapidement, grandissez solide"
-"\" (<em>Build fast, grow solid</em>)\n"
+"facilement et avec plus élégamment. <em>Build fast, grow solid</em>\n"
 "\t\t\t\t\t avec CakePHP."
 
 #: Template/Element/home/summary.ctp:13
@@ -1657,56 +1661,59 @@ msgstr "Télécharger CakePHP {0}"
 
 #: Template/Element/home/summary.ctp:68
 msgid "A recipe to succeed."
-msgstr ""
+msgstr "La recette du succès."
 
 #: Template/Element/home/summary.ctp:69
 msgid "Prototype faster, Validate faster, Grow consistently."
-msgstr ""
+msgstr "Prototypes et validations rapides. Croissance solide."
 
 #: Template/Element/home/summary.ctp:77
 msgid "Build Quickly"
-msgstr ""
+msgstr "Développez rapidement"
 
 #: Template/Element/home/summary.ctp:79
 msgid "Use code generation and scaffolding features to {0}."
 msgstr ""
+"Utilisez le générateur de code et les fonctions de scaffolding pour {0}"
 
 #: Template/Element/home/summary.ctp:79
 msgid "rapidly build prototypes"
-msgstr ""
+msgstr "construire rapidement vos prototypes"
 
 #: Template/Element/home/summary.ctp:88
 msgid "No Configuration"
-msgstr ""
+msgstr "Aucune configuration"
 
 #: Template/Element/home/summary.ctp:90
 msgid ""
 "No complicated XML or YAML files. Just setup your database and you're {0}."
 msgstr ""
+"Pas de fichiers XML ou YAML compliqués. Configurez votre base de données et "
+"vous êtes {0}"
 
 #: Template/Element/home/summary.ctp:90
 msgid ""
 "ready to\n"
 "\t\t\t\t\t\t\t\tbake"
-msgstr ""
+msgstr "prêt à cuisiner"
 
 #: Template/Element/home/summary.ctp:99
 msgid "Friendly License"
-msgstr ""
+msgstr "Licence ouverte"
 
 #: Template/Element/home/summary.ctp:101
 msgid ""
 "CakePHP is licensed under the MIT license which makes it perfect for use in "
 "{0}."
-msgstr ""
+msgstr "CakePHP est sous licence MIT ce qui le rend parfait pour créer des {0}"
 
 #: Template/Element/home/summary.ctp:101
 msgid "Commercial applications"
-msgstr ""
+msgstr "applications commerciales"
 
 #: Template/Element/home/summary.ctp:110
 msgid "Batteries Included"
-msgstr ""
+msgstr "Piles incluses"
 
 #: Template/Element/home/summary.ctp:112
 msgid ""
@@ -1715,30 +1722,38 @@ msgid ""
 "one of the original PHP MVC\n"
 "\t\t\t\t\t\t\tframeworks."
 msgstr ""
+"{0}. Traductions, accès à la base de données, mise en cache,\n"
+"\t\t\t\t\t\t\tvalidation, authentification et bien plus. Tout est intégré "
+"dans un des premiers\n"
+"\t\t\t\t\t\t\tframework MVC PHP"
 
 #: Template/Element/home/summary.ctp:114
 msgid "The things you need are built-in"
-msgstr ""
+msgstr "Les indispensables sont intégrés"
 
 #: Template/Element/home/summary.ctp:122
 msgid "Clean MVC Conventions"
-msgstr ""
+msgstr "Des conventions MVC simples"
 
 #: Template/Element/home/summary.ctp:125
 msgid ""
 "Instead of having to plan where things go, CakePHP comes with a {0} to guide "
 "you in developing your application"
 msgstr ""
+"Au lieu de devoir tout planifier à l'avance, CakePHP embarque un {0} pour "
+"vous guider dans le développement de votre application"
 
 #: Template/Element/home/summary.ctp:125
 msgid ""
 "set of\n"
 "\t\t\t\t\t\t\t\tconventions"
 msgstr ""
+"jeu de\n"
+"\t\t\t\t\t\t\t\tconventions"
 
 #: Template/Element/home/summary.ctp:134
 msgid "Secure"
-msgstr ""
+msgstr "Sécurisé"
 
 #: Template/Element/home/summary.ctp:135
 msgid ""
@@ -1748,10 +1763,15 @@ msgid ""
 "helping you keep your application\n"
 "\t\t\t\t\t\t\t{0}."
 msgstr ""
+"CakePHP embarque des outils pour la validation des formulaires, la "
+"protection CSRF,\n"
+"\t\t\t\t\t\t\tla protection contre les injections SQL et les failles XSS "
+"pour vous aider à garder votre application\n"
+"\t\t\t\t\t\t\t{0}."
 
 #: Template/Element/home/summary.ctp:137
 msgid "safe & secure."
-msgstr ""
+msgstr "sécurisée."
 
 #: Template/Element/home/support.ctp:6
 msgid "Premium "
@@ -1763,11 +1783,11 @@ msgstr ""
 
 #: Template/Element/home/support.ctp:7
 msgid "Give \"The Experts Behind CakePHP\" a call:"
-msgstr ""
+msgstr "Appelez les \"Experts derrière CakePHP\" :"
 
 #: Template/Element/home/support.ctp:11
 msgid "Meet CakeDC."
-msgstr ""
+msgstr "Voici CakeDC."
 
 #: Template/Element/home/support.ctp:12
 msgid ""
@@ -1776,41 +1796,55 @@ msgid ""
 "startups and social networks, to e-commerce and enterprise level "
 "applications, we provide the highest quality CakePHP development available."
 msgstr ""
+"L'entité commerciale derrière le framework, et créée par Larry Masters, "
+"fondateur de CakePHP. Nous connaissons le projet comme personne. Des "
+"startups aux réseaux sociaux en passant par les sites e-commerce et les "
+"applications métiers, nous vous fournissons le meilleur développement "
+"CakePHP du marché."
 
 #: Template/Element/home/support.ctp:16
 msgid ""
 "Request a rapid response from us now, and we'll contact you within 24 hours:"
 msgstr ""
+"Si vous voulez être rappelé rapidement, demandez à être rappelé et nous vous "
+"contactons dans les 24 heures :"
 
 #: Template/Element/home/support.ctp:19
 msgid "Rapid Response"
-msgstr ""
+msgstr "Être rappelé rapidement"
 
 #: Template/Element/home/support.ctp:33;44;55
 msgid "Read more"
-msgstr ""
+msgstr "En savoir plus"
 
 #: Template/Element/home/support.ctp:34
 msgid ""
 "Professional support for CakePHP is provided by our professional services "
 "partner, the Cake Development Corporation."
 msgstr ""
+"Le support professionnel CakePHP est assuré par notre partenaire "
+"professionnel, la Cake Development Corporation."
 
 #: Template/Element/home/support.ctp:45
 msgid ""
 "Learn the insights and reasoning behind the CakePHP framework straight from "
 "the minds behind the framework: the developers at CakeDC"
 msgstr ""
+"Découvrez les idées et le raisonnement derrière le framework CakePHP "
+"directement par l'intermédiaire des esprits qui ont conçu le framework : les "
+"développeurs de CakeDC"
 
 #: Template/Element/home/support.ctp:55
 msgid "Expert {0} Consultancy"
-msgstr ""
+msgstr "Consulting {0} d'experts"
 
 #: Template/Element/home/support.ctp:56
 msgid ""
 "We can help with the areas which need special attention and a trained eye, "
 "allowing you to rest assured that you've got all bases covered."
 msgstr ""
+"Nous vous aidons sur les points qui nécessitent une attention particulière "
+"et un oeil avisé. Vous restez ainsi assuré que tout est sous contrôle."
 
 #: Template/Element/home/support.ctp:67
 msgid "Rapid"
@@ -1823,6 +1857,8 @@ msgstr ""
 #: Template/Element/home/support.ctp:69
 msgid "Request a rapid response from us now, and we'll contact you within {0}"
 msgstr ""
+"Si vous voulez être rappelé rapidement, demandez à être rappelé et nous vous "
+"contactons dans {0}"
 
 #: Template/Element/rebranding/cake_variations.ctp:6
 msgid "Cake Development Corporation"
@@ -1847,7 +1883,7 @@ msgstr ""
 
 #: Template/Element/rebranding/cake_variations.ctp:23
 msgid "CakePHP sister brands."
-msgstr ""
+msgstr "Identités connexes de CakePHP"
 
 #: Template/Element/rebranding/changes.ctp:9
 msgid "How much did we change"

@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2016-10-06 22:49+0200\n"
-"PO-Revision-Date: 2016-10-12 22:49+0200\n"
+"POT-Creation-Date: 2016-10-16 12:22+0200\n"
+"PO-Revision-Date: 2016-10-16 12:37+0200\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "Language: fr_FR\n"
@@ -101,7 +101,7 @@ msgstr "Les dépôts de code de CakePHP sont hébérgés sur {0}."
 
 #: Template/Changelogs/index.ctp:36
 msgid "Security Issues"
-msgstr "Issues de Sécurité"
+msgstr "Tickets de Sécurité"
 
 #: Template/Changelogs/index.ctp:39
 msgid ""
@@ -109,7 +109,7 @@ msgid ""
 "or open an issue on Github."
 msgstr ""
 "Vous avez trouvé une faille de sécurité dans CakePHP? Merci de ne pas "
-"envoyer de message à la mailing liste, ou n'ouvrez pas d'issue sur Github."
+"envoyer de message à la mailing-list, ou n'ouvrez pas de ticket sur Github."
 
 #: Template/Changelogs/index.ctp:40
 msgid "Instead, please email {0}."
@@ -125,87 +125,94 @@ msgstr ""
 msgid ""
 "When a security issue is reported, we first try to confirm the vulnerability."
 msgstr ""
-"Quand une issue de sécurité est reportée, nous essayons d'abord de confirmer "
+"Quand un ticke de sécurité est rapporté, nous essayons d'abord de confirmer "
 "la vulnérabilité."
 
 #: Template/Changelogs/index.ctp:47
 msgid "Once confirmed, we'll do the following:"
-msgstr "Une fois confirmée, nous ferons ce qui suit:"
+msgstr "Une fois confirmée, nous allons :"
 
 #: Template/Changelogs/index.ctp:51
 msgid ""
 "Send acknowledgement to the reporter, that we received and confirmed the "
 "issue."
 msgstr ""
-"Envoyer une reconnaissance au rapporteur que nous avons reçu et confirmé "
+"Envoyer une accusé-réception au rapporteur que nous avons reçu et confirmé "
 "l'issue."
 
 #: Template/Changelogs/index.ctp:52
 msgid "Work on a patch to fix the issue."
-msgstr "Travailler sur un patch pour régler l'issue."
+msgstr "Travailler sur un patch pour corriger la vulnérabilité."
 
 #: Template/Changelogs/index.ctp:53
 msgid ""
 "Write a post describing the vulnerability, possible exploits and provide "
 "instructions on how to apply the patch / upgrade."
 msgstr ""
+"Ecrire un article décrivant la vulnérabilité, les exploitations possible et "
+"fournissant des instructions pour appliquer le patch / la mise à jour."
 
 #: Template/Changelogs/index.ctp:54
 msgid "Apply the patch to all maintained and affected versions of CakePHP"
 msgstr ""
+"Appliquer le patch sur tous les versions affectées et maintenues de CakePHP."
 
 #: Template/Changelogs/index.ctp:55
 msgid "Create new packaged releases for each affected version."
 msgstr ""
+"Publier de nouvelles versions de CakePHP pour tous les versions affectées."
 
 #: Template/Changelogs/index.ctp:56
 msgid "Publish the post on the CakePHP blog/Bakery"
-msgstr ""
+msgstr "Publier un article sur le blog de CakePHP et la Bakery"
 
 #: Template/Changelogs/index.ctp:59
 msgid "Continuous Integration"
-msgstr ""
+msgstr "Intégration continue"
 
 #: Template/Changelogs/index.ctp:61
-msgid "CakePHP is {0} check the status of the {1} on Travis CI."
+msgid "CakePHP is {0}. Check the status of the {1} on Travis CI."
 msgstr ""
+"CakePHP est sous {0}. Vous pouvez vérifier le statut des {1} sur Travis CI."
 
 #: Template/Changelogs/index.ctp:63
 #: Template/Element/get-involved/get-involved.ctp:157
 msgid "continuously integrated"
-msgstr ""
+msgstr "intégration continue"
 
 #: Template/Changelogs/index.ctp:64
 #: Template/Element/get-involved/get-involved.ctp:158
 msgid "various builds"
-msgstr ""
+msgstr "différents <em>builds</em>"
 
 #: Template/Changelogs/index.ctp:68
 #: Template/Element/get-involved/get-help.ctp:45
 msgid "Issues"
-msgstr ""
+msgstr "Tickets"
 
 #: Template/Changelogs/index.ctp:70
 msgid ""
 "Found a bug? Suggest an improvement? Issue tracking for CakePHP can be found "
 "at {0}."
 msgstr ""
+"Vous avez trouvé un bug ? Vous souhaitez suggérer une amélioration ? La "
+"gestion des tickets pour CakePHP est faite sur {0}."
 
 #: Template/Changelogs/index.ctp:76
 msgid "Contributing"
-msgstr ""
+msgstr "Contribuer"
 
 #: Template/Changelogs/index.ctp:79
 msgid "Contributing to CakePHP is easy."
-msgstr ""
+msgstr "Contribuer à CakePHP est facile."
 
 #: Template/Changelogs/index.ctp:80
 msgid "Checkout the {0} for how you can get started contributing to CakePHP."
-msgstr ""
+msgstr "Consulter le {0} pour savoir comment aider à améliorer CakePHP."
 
 #: Template/Changelogs/index.ctp:82
 msgid "guide on contributing"
-msgstr ""
+msgstr "guide sur la contribution"
 
 #: Template/Changelogs/view.ctp:39
 msgid "Version {0}"
@@ -239,6 +246,11 @@ msgid ""
 "They're also great for desktop backgrounds, or any other place you want a "
 "giant sexy CakePHP wallpaper."
 msgstr ""
+"Ces fonds d'écrans ont une largeur de 1024 pixels et sont carrés. Ils sont "
+"compatibles avec les écrans qui permettent de changer d'orientation tout en "
+"gardant le design du fond d'écran dans les limites de le l'écran. Ils sont "
+"aussi idéals quelque soit l'endroit où vous voulez un fond d'écran sexy "
+"CakePHP."
 
 #: Template/Element/changelogs.ctp:10
 msgid "{0} series "
@@ -246,7 +258,7 @@ msgstr ""
 
 #: Template/Element/rapid_response.ctp:29
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #: Template/Element/rapid_response.ctp:42
 msgid "Email"
@@ -258,7 +270,7 @@ msgstr ""
 
 #: Template/Element/rapid_response.ctp:75
 msgid "Phone"
-msgstr ""
+msgstr "Téléphone"
 
 #: Template/Element/rapid_response.ctp:87
 msgid "Skype"
@@ -266,20 +278,21 @@ msgstr ""
 
 #: Template/Element/rapid_response.ctp:98
 msgid "Subject"
-msgstr ""
+msgstr "Objet"
 
 #: Template/Element/Layout/default/footer.ctp:32
 msgid ""
 "Copyright 2005-2016 Cake Software Foundation, Inc. All rights reserved. {0}."
 msgstr ""
+"Copyright 2005-2016 Cake Software Foundation, Inc. Tous droits réservés. {0}."
 
 #: Template/Element/Layout/default/footer.ctp:33
 msgid "Designs by Ibaldo"
-msgstr ""
+msgstr "Designs par Ibaldo"
 
 #: Template/Element/Layout/default/navbar.ctp:7;25
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:4
 msgid "My CakePHP"
@@ -288,38 +301,38 @@ msgstr ""
 #: Template/Element/Layout/default/footer/login_form.ctp:7
 #: Template/Plugin/CakeDC/Users/Users/login.ctp:32
 msgid "Username"
-msgstr ""
+msgstr "Identifiant"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:11
 #: Template/Plugin/CakeDC/Users/Users/login.ctp:33
 msgid "Password"
-msgstr ""
+msgstr "Mot de passe"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:17
 #: Template/Plugin/CakeDC/Users/Users/login.ctp:29
 msgid "Login"
-msgstr ""
+msgstr "Connexion"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:21
 msgid "Remember me"
-msgstr ""
+msgstr "Se souvenir de moi"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:23
 #: Template/Plugin/CakeDC/Users/Users/login.ctp:51
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Mot de passe oublié ?"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:24
 msgid "New user?"
-msgstr ""
+msgstr "Pas de compte ?"
 
 #: Template/Element/Layout/default/footer/login_form.ctp:24
 msgid "Register!"
-msgstr ""
+msgstr "M'inscrire !"
 
 #: Template/Element/Layout/default/footer/social_interactions.ctp:15
 msgid "Follow"
-msgstr ""
+msgstr "Suivre"
 
 #: Template/Element/Layout/default/footer/menu/column_four.ctp:12
 #: Template/Element/Layout/default/menu/menu.ctp:66
@@ -394,11 +407,11 @@ msgstr "Envoyer"
 
 #: Template/Element/Showcase/cases.ctp:5
 msgid "CakePHP More Stories"
-msgstr ""
+msgstr "Plus d'histoires"
 
 #: Template/Element/Showcase/cases.ctp:33
 msgid "View more projects"
-msgstr ""
+msgstr "Plus de projets"
 
 #: Template/Element/Showcase/title.ctp:2
 msgid "CakePHP - Build fast, grow solid | Success Stories"
@@ -416,31 +429,35 @@ msgstr ""
 
 #: Template/Element/Showcase/title.ctp:14
 msgid "Here’s how CakePHP has helped other companies to succeed."
-msgstr ""
+msgstr "Voici comment CakePHP a aidé d'autres sociétés à réussir."
 
 #: Template/Element/business-solutions/code-review.ctp:3
 #: Template/Element/business-solutions/sidebar.ctp:10
 msgid "Code Review"
-msgstr ""
+msgstr "Revue de code"
 
 #: Template/Element/business-solutions/code-review.ctp:4
 msgid ""
 "The following are some of the main reasons to review the existing source "
 "code on a project:"
 msgstr ""
+"Voici les raisons principales pour effectuer une revue de code existant sur "
+"un projet :"
 
 #: Template/Element/business-solutions/code-review.ctp:6
 msgid "You want to ensure the code quality from an external contractor"
 msgstr ""
+"Vous souhaitez vous assurer de la qualité du code d'un prestataire externe"
 
 #: Template/Element/business-solutions/code-review.ctp:7
 msgid ""
 "You feel your mission critical application could have scalability issues"
 msgstr ""
+"Vous pensez que votre application pourra avoir des problèmes de scalabilité"
 
 #: Template/Element/business-solutions/code-review.ctp:8
 msgid "You are worried about potential security issues"
-msgstr ""
+msgstr "Vous êtes préoccupés par de potentiels problèmes de sécurité"
 
 #: Template/Element/business-solutions/code-review.ctp:10
 msgid ""
@@ -449,57 +466,65 @@ msgid ""
 "enterprise practices. You know that good code quality pays off on the long "
 "run."
 msgstr ""
+"Nous assurons des revues de code CakePHP pour vous aidez sur ces points, "
+"avec des exemples concrets sur ce qu'il faudra corriger, les étapes "
+"recommandées pour les corriger ainsi que les meilleures pratiques à adopter. "
+"Comme vous le savez, un code de qualité permet d'assurer sur le long terme."
 
 #: Template/Element/business-solutions/code-review.ctp:22
 msgid "Service and Deliverables"
-msgstr ""
+msgstr "Services et délivrables"
 
 #: Template/Element/business-solutions/code-review.ctp:27
 msgid "Get a full featured CakePHP code review document containing:"
-msgstr ""
+msgstr "Recevez votre document de revue de code complet contenant :"
 
 #: Template/Element/business-solutions/code-review.ctp:29
 msgid "Code quality review"
-msgstr ""
+msgstr "Revue de qualité du code"
 
 #: Template/Element/business-solutions/code-review.ctp:30
 msgid "CakePHP conventions and coding standards review"
-msgstr ""
+msgstr "Revue de respect des conventions et des standards de CakePHP"
 
 #: Template/Element/business-solutions/code-review.ctp:31
 msgid "Scalability and performance code review"
-msgstr ""
+msgstr "Revue sur la performance et la scalabilité du code"
 
 #: Template/Element/business-solutions/code-review.ctp:32
 msgid "Re-use and best practices overview"
-msgstr ""
+msgstr "Vue d'ensemble sur les bonnes pratiques"
 
 #: Template/Element/business-solutions/code-review.ctp:33
 msgid "Security code review"
-msgstr ""
+msgstr "Revue de sécurité du code"
 
 #: Template/Element/business-solutions/code-review.ctp:36
 msgid "All covered in a structured easy to follow document:"
-msgstr ""
+msgstr "Le tout avec une structure facile à parcourir :"
 
 #: Template/Element/business-solutions/code-review.ctp:38
 msgid "Ready for your management team to evaluate the code status and risks"
 msgstr ""
+"Pour votre équipe management pour évaluer le statut du code et les risques"
 
 #: Template/Element/business-solutions/code-review.ctp:39
 msgid "Ready for your development team to fix the current issues"
-msgstr ""
+msgstr "Pour votre équipe de développement pour corriger les problèmes"
 
 #: Template/Element/business-solutions/code-review.ctp:41
 msgid ""
-"Trust the experts behind the CakePHP framework. Let us provide you piece of "
+"Trust the experts behind the CakePHP framework. Let us provide you peace of "
 "mind, and actively help you reduce technical debt and extend the longevity "
 "of your code base."
 msgstr ""
+"Faites confiance aux experts derrière le framework CakePHP. Nous vous "
+"apportons la tranquilité d'esprit et vous aidons à réduire votre dette "
+"technique tout en améliorant la longévité de votre code."
 
 #: Template/Element/business-solutions/consultancy.ctp:3
 msgid "Expert Consultancy"
-msgstr ""
+msgstr "Consulting d'experts"
 
 #: Template/Element/business-solutions/consultancy.ctp:4
 msgid ""
@@ -508,10 +533,14 @@ msgid ""
 "special attention and a trained eye, allowing you to rest assured that "
 "you've got all bases covered."
 msgstr ""
+"Il est parfois nécessaire de bénéficier de l'expérience et d'un avis "
+"extérieur pour prendre les bonnes décisions pour votre projet. Nous vous "
+"aidons sur les points qui nécessitent un oeil aguerri, vous permettant ainsi "
+"d'être assuré que tous les points importants sont couverts."
 
 #: Template/Element/business-solutions/consultancy.ctp:16
 msgid "Specifications"
-msgstr ""
+msgstr "Spécifications"
 
 #: Template/Element/business-solutions/consultancy.ctp:17
 msgid ""
@@ -522,10 +551,17 @@ msgid ""
 "project, planning for extension and ensuring simple maintenance down the "
 "road."
 msgstr ""
+"Une analyse précise des besoins est l'étape la plus importante dans tous les "
+"projets. Nous serons attentifs à vos besoins et définirons les "
+"spécifications de votre projet avant que le développement ne commence. Etant "
+"donné que les applications sont souvement soumises au changement dans le "
+"temps, nos experts s'assuront également que votre projet durera dans le "
+"temps en planifiant les mises à jour et en assurant la maintenance simple au "
+"cours de la vie du projet. "
 
 #: Template/Element/business-solutions/consultancy.ctp:25
 msgid "Migrations"
-msgstr ""
+msgstr "Migrations"
 
 #: Template/Element/business-solutions/consultancy.ctp:26
 msgid ""
@@ -536,18 +572,24 @@ msgid ""
 "features, performance benefits, and ready for the latest tech available for "
 "CakePHP."
 msgstr ""
+"Si vous avez besoin de mettre à jour votre application CakePHP à la dernière "
+"version du framework, ne cherchez pas plus loin. CakeDC, en tant qu'experts "
+"derrière le framework peut se charger de la migration complète de votre code "
+"existant. Votre application bénéficiera ainsi des dernières mises à jour de "
+"sécurité, des améliorations de performance ainsi que les dernières "
+"fonctionnalités de CakePHP."
 
 #: Template/Element/business-solutions/contact.ctp:3
 msgid "Give us a"
-msgstr ""
+msgstr "Passez-nous un"
 
 #: Template/Element/business-solutions/contact.ctp:3
 msgid "Call"
-msgstr ""
+msgstr "<br>coup de fil"
 
 #: Template/Element/business-solutions/contact.ctp:6
 msgid "For more information:"
-msgstr ""
+msgstr "Pour plus d'informations :"
 
 #: Template/Element/business-solutions/development.ctp:4
 msgid "Custom Development"
@@ -3292,21 +3334,24 @@ msgstr ""
 
 #: Template/Pages/privacy.ctp:3
 msgid "CakePHP Privacy Policy."
-msgstr ""
+msgstr "CakePHP & respect de la vie privée"
 
 #: Template/Pages/privacy.ctp:16
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Respect de la vie privée"
 
 #: Template/Pages/privacy.ctp:28
 msgid "The privacy of our visitors to cakephp.org is important to us."
 msgstr ""
+"Le respect de la vie privée des visiteurs de cakephp.org nous est importante."
 
 #: Template/Pages/privacy.ctp:31
 msgid ""
 "At cakephp.org, we recognize that privacy of your personal information is "
 "important."
 msgstr ""
+"Sur cakephp.org, nous savons que le respect de vos informations personnelles "
+"est important."
 
 #: Template/Pages/privacy.ctp:32
 msgid ""
@@ -3315,20 +3360,26 @@ msgid ""
 "\t\t\t\t\t you use and visit cakephp.org, and how we safeguard your "
 "information."
 msgstr ""
+"Voici quels types d'informations personnelles nous recevons et collectons "
+"que vous utilisez et visitez cakephp.org\n"
+"\t\t\t\t\t et comment nous protégeons ces informations."
 
 #: Template/Pages/privacy.ctp:34
 msgid "We never sell your personal information to third parties."
 msgstr ""
+"Nous ne vendons jamais vos informations personnelles à des tierces parties."
 
 #: Template/Pages/privacy.ctp:37
 msgid "Log Files:"
-msgstr ""
+msgstr "Fichiers de logs :"
 
 #: Template/Pages/privacy.ctp:39
 msgid ""
 "As with most other websites, we collect and use the data contained in log "
 "files."
 msgstr ""
+"Comme la majorité des sites web, nous collectons et utilisons les données "
+"contenus de nos fichiers de logs."
 
 #: Template/Pages/privacy.ctp:40
 msgid ""
@@ -3340,10 +3391,17 @@ msgid ""
 "site and which pages you visited\n"
 "\t\t\t\t\t throughout our site."
 msgstr ""
+"Les informations des fichiers de logs contiennent votre adresse IP (Internet "
+"Protocol), votre FAI\n"
+"\t\t\t\t\t (Fournisseur d'Accès à Internet comme Orange ou Free), la "
+"navigateur utilisé pour visite notre site\n"
+"\t\t\t\t\t (comme Internet Explorer ou Firefox), la date et heure de visite "
+"et quelles pages vous avez visité\n"
+"\t\t\t\t\t sur notre site."
 
 #: Template/Pages/privacy.ctp:46
 msgid "Cookies:"
-msgstr ""
+msgstr "Cookies :"
 
 #: Template/Pages/privacy.ctp:47
 msgid ""
@@ -3351,16 +3409,20 @@ msgid ""
 "when you\n"
 "\t\t\t\tvisit our site."
 msgstr ""
+"Nous utilisons les cookies pour stocker des informations, comme vos "
+"préférences lorsque vous visitez notre site"
 
 #: Template/Pages/privacy.ctp:50
 msgid "Advertising:"
-msgstr ""
+msgstr "Publicités :"
 
 #: Template/Pages/privacy.ctp:52
 msgid ""
 "We use third-party advertising companies to serve ads when you visit our "
 "website."
 msgstr ""
+"Nous utilisons des services tiers de société de publicité pour afficher des "
+"publicités quand vous visitez notre site."
 
 #: Template/Pages/privacy.ctp:53
 msgid ""
@@ -3370,6 +3432,11 @@ msgid ""
 "in order to provide advertisements\n"
 "\t\t\t\t\t  about goods and services of interest to you."
 msgstr ""
+"Ces sociétés peuvent utiliser des informations (n'incluant PAS votre nom, "
+"adresse, adresse email ou numéro de téléphone)\n"
+"\t\t\t\t\t sur vos visites sur ce site et d'autres sites pour pouvoir "
+"afficher des publicités sur des biens et services\n"
+"\t\t\t\t\t qui pourraient vous intéresser."
 
 #: Template/Pages/privacy.ctp:57
 msgid ""
@@ -3377,14 +3444,18 @@ msgid ""
 "choices about not\n"
 "\t\t\t\t\t\thaving this information used by these companies, %s."
 msgstr ""
+"Si vous souhaitez plus d'informations sur ces pratiques et connaître les "
+"choix qui s'offrent à vous\n"
+"\t\t\t\t\t\t pour que ces informations ne soient pas utiliser par ces "
+"sociétés, %s"
 
 #: Template/Pages/privacy.ctp:59
 msgid "click here"
-msgstr ""
+msgstr "cliquez-ici"
 
 #: Template/Pages/rebranding.ctp:2
 msgid "CakePHP - Build fast, grow solid | The Brand"
-msgstr ""
+msgstr "CakePHP - Build fast, grow solid | La marque"
 
 #: Template/Pages/rebranding.ctp:3
 msgid "CakePHP's evolution through the years explained"
@@ -3453,39 +3524,45 @@ msgstr ""
 
 #: Template/Pages/videos.ctp:25
 msgid "CakePHP Videos"
-msgstr ""
+msgstr "Vidéos sur CakePHP"
 
 #: Template/Pages/videos.ctp:26
 msgid "Checkout our videos from youtube channel."
-msgstr ""
+msgstr "Consulter nos vidéos sur notre chaîne Youtube."
 
 #: Template/Pages/videos.ctp:67
 msgid "Load More"
-msgstr ""
+msgstr "Plus de vidéos"
 
 #: Template/Plugin/CakeDC/Users/Users/change_password.ctp:29
 msgid "Enter a new password"
-msgstr ""
+msgstr "Saisissez votre nouveau mot de passe"
 
 #: Template/Plugin/CakeDC/Users/Users/change_password.ctp:33
 msgid "New password"
-msgstr ""
+msgstr "Nouveau mot de passe"
 
 #: Template/Plugin/CakeDC/Users/Users/change_password.ctp:34
 msgid "Confirm new password"
-msgstr ""
+msgstr "Confirmez le nouveau mot de passe"
 
 #: Template/Plugin/CakeDC/Users/Users/request_reset_password.ctp:29
 msgid "Request a new password"
-msgstr ""
+msgstr "Demandez un nouveau mot de passe"
 
 #: Template/Plugin/CakeDC/Users/Users/request_reset_password.ctp:32
 msgid "Username or email"
-msgstr ""
+msgstr "Identifiant ou email"
 
 #: View/Helper/AppHelper.php:134
 msgid "{0} to {1}"
-msgstr ""
+msgstr "{0} au {1}"
+
+#~ msgid ""
+#~ "Trust the experts behind the CakePHP framework. Let us provide you piece "
+#~ "of mind, and actively help you reduce technical debt and extend the "
+#~ "longevity of your code base."
+#~ msgstr "Faites confiance aux experts derrière le framework CakePHP. "
 
 #~ msgid "New CakePHP 3.2 Red Velvet."
 #~ msgstr "Nouveau CakePHP 3.2 Red Velvet."

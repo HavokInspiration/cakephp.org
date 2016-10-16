@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2016-10-06 20:48+0000\n"
+"POT-Creation-Date: 2016-10-16 10:22+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -156,7 +156,7 @@ msgid "Continuous Integration"
 msgstr ""
 
 #: Template/Changelogs/index.ctp:61
-msgid "CakePHP is {0} check the status of the {1} on Travis CI."
+msgid "CakePHP is {0}. Check the status of the {1} on Travis CI."
 msgstr ""
 
 #: Template/Changelogs/index.ctp:63
@@ -459,7 +459,7 @@ msgid "Ready for your development team to fix the current issues"
 msgstr ""
 
 #: Template/Element/business-solutions/code-review.ctp:41
-msgid "Trust the experts behind the CakePHP framework. Let us provide you piece of mind, and actively help you reduce technical debt and extend the longevity of your code base."
+msgid "Trust the experts behind the CakePHP framework. Let us provide you peace of mind, and actively help you reduce technical debt and extend the longevity of your code base."
 msgstr ""
 
 #: Template/Element/business-solutions/consultancy.ctp:3

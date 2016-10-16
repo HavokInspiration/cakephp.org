@@ -59,7 +59,7 @@
 <h3><?= __('Continuous Integration'); ?></h3>
 <p>
     <?= __(
-        'CakePHP is {0} check the status of the {1} on Travis CI.',
+        'CakePHP is {0}. Check the status of the {1} on Travis CI.',
         '<a href="https://en.wikipedia.org/wiki/Continuous_Integration">' . __('continuously integrated') . '</a>',
         '<a href="https://travis-ci.org/cakephp/cakephp">' . __('various builds') . '</a>'
     ) ?>

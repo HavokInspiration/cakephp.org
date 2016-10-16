@@ -38,6 +38,6 @@
 			<li><?= __('Ready for your management team to evaluate the code status and risks') ?></li>
 			<li><?= __('Ready for your development team to fix the current issues') ?></li>
 		</ol>
-		<p><?= __('Trust the experts behind the CakePHP framework. Let us provide you piece of mind, and actively help you reduce technical debt and extend the longevity of your code base.') ?></p>
+		<p><?= __('Trust the experts behind the CakePHP framework. Let us provide you peace of mind, and actively help you reduce technical debt and extend the longevity of your code base.') ?></p>
 	</div>
 </div>
